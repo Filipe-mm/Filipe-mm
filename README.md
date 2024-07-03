@@ -1,39 +1,27 @@
 # Bem-vindo ao meu GitHub!
 
-Olá! Eu sou [Seu Nome], estudante de Ciência da Computação com um forte interesse em ciência de dados, análise de dados, modelos estatísticos, machine learning, big data, Python, SQL e BI.
+Olá! Eu sou Filipe Magalhães Moreira, estudante de Ciência da Computação com um forte interesse em ciência de dados, análise de dados, modelos estatísticos, machine learning, big data, Python, SQL e BI.
 
 ## Sobre Mim
 
 Sou apaixonado por explorar e interpretar dados para resolver problemas complexos e tomar decisões informadas. Tenho experiência em trabalhar com diversas ferramentas e tecnologias, e estou sempre buscando aprender mais e aprimorar minhas habilidades.
 
-## Projetos
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:filipe.mm.1999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/filipe-magalhães-moreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-Aqui estão alguns dos projetos que desenvolvi:
-
-### [Nome do Projeto 1](link-para-o-projeto-1)
-Descrição breve do projeto 1, destacando os principais objetivos e tecnologias utilizadas.
-
-### [Nome do Projeto 2](link-para-o-projeto-2)
-Descrição breve do projeto 2, destacando os principais objetivos e tecnologias utilizadas.
-
-### [Nome do Projeto 3](link-para-o-projeto-3)
-Descrição breve do projeto 3, destacando os principais objetivos e tecnologias utilizadas.
-
-## Habilidades
-
-- **Linguagens de Programação:** Python, SQL
-- **Ferramentas de Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow
-- **Análise de Dados e BI:** Power BI, Tableau
-- **Banco de Dados:** MySQL, PostgreSQL
-- **Outras Competências:** Modelos Estatísticos, Machine Learning, Big Data
-
-## Contato
-
-Sinta-se à vontade para entrar em contato comigo:
-
-- **Email:** [Seu Email]
-- **LinkedIn:** [Seu LinkedIn]
-- **Website/Portfólio:** [Seu Website, se tiver]
 
 Estou sempre aberto a colaborações e novas oportunidades. Vamos nos conectar!
 
