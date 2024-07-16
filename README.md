@@ -4,7 +4,7 @@ Olá! Eu sou Filipe Magalhães Moreira, estudante de Ciência da Computação co
 
 ## Sobre Mim
 
-Sou apaixonado por explorar e interpretar dados para resolver problemas complexos e tomar decisões informadas. Tenho experiência em trabalhar com diversas ferramentas e tecnologias, e estou sempre buscando aprender mais e aprimorar minhas habilidades.
+Estudante do último ano de Ciência da Computação pela Universidade Anhembi Morumbi. Atualmente, em busca da minha primeira experiência do trabalho na área da tecnologia, com foco em Ciência de Dados. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
