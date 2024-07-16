@@ -1,9 +1,5 @@
 # Bem-vindo ao meu GitHub!
 
-Olá! Eu sou Filipe Magalhães Moreira, estudante de Ciência da Computação com um forte interesse em ciência de dados, análise de dados, modelos estatísticos, machine learning, big data, Python, SQL e BI.
-
-## Sobre Mim
-
 Estudante do último ano de Ciência da Computação pela Universidade Anhembi Morumbi. Atualmente, em busca da minha primeira experiência do trabalho na área da tecnologia, com foco em Ciência de Dados. 
 
 <div style="display: inline_block"><br>
